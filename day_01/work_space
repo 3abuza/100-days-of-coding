@@ -1,0 +1,12 @@
+# print(len(input("what is your name? ")))
+# name = "Jack"
+# print(name)
+# name = "victor"
+# print(name)
+# name = "tobi"
+# length = len(name)
+# print(length)
+print("Welcome to my dexy app")
+city = input("What city did you grow up in?\n ")
+pet = input("What is your pet name?\n") 
+print("your band name is " + city +" "+ pet)
