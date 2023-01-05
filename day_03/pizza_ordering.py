@@ -12,7 +12,6 @@ elif size == "M":
 else:
     bill = 25
 
-
 if add_pepperoni == "Y":
     if size == "S":
         bill += 2
@@ -23,4 +22,3 @@ if extra_cheese == "Y":
  bill += 1
 
 print(f"Your final bill is ${bill}")
-    
